@@ -71,8 +71,8 @@ body {
 /*header section*/
 .hero_area {
   height: 100vh;
-  background-color: #b5caee;
-  background-image: url(../images/hero-bg.jpg);
+  background-color: #ffffff;
+  /* background-image: url(../images/hero-bg.jpg); */
   background-size: cover;
 }
 
@@ -193,7 +193,7 @@ a:focus {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  color: #ffffff;
+  color: #000E60;
 }
 
 .slider_section .detail-box {
@@ -217,9 +217,9 @@ a:focus {
 .slider_section .detail-box a {
   display: inline-block;
   padding: 10px 55px;
-  background-color: #ffffff;
+  background-color: #FE0000;
   border: 1px solid #ffffff;
-  color: #000000;
+  color: #ffffff;
   border-radius: 20px 20px 0 20px;
   margin-top: 35px;
 }
@@ -227,6 +227,7 @@ a:focus {
 .slider_section .detail-box a:hover {
   background-color: transparent;
   color: #ffffff;
+  background-color: #000E60;
 }
 
 .slider_section #carouselExampleIndicators {
@@ -237,7 +238,7 @@ a:focus {
   width: 15px;
   height: 15px;
   background-color: transparent;
-  border: 3px solid #ffffff;
+  border: 3px solid #000E60;
   border-radius: 100%;
   opacity: 1;
 }
