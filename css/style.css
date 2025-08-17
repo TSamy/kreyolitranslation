@@ -280,7 +280,7 @@ a:focus {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background-color: #353434;
+  background-color: #FE0000;
   border-radius: 100%;
 }
 
@@ -293,7 +293,7 @@ a:focus {
 }
 
 .do_section .do_container .box:hover .img-box {
-  background-color: #fec016;
+  background-color: #000E60;
 }
 
 .do_section .do_container .arrow_bg::before {
@@ -308,15 +308,15 @@ a:focus {
 }
 
 .do_section .do_container .arrow-start::before {
-  background-image: url(../images/arrow-start.png);
+  /* background-image: url(../images/arrow-start.png); */
 }
 
 .do_section .do_container .arrow-middle::before {
-  background-image: url(../images/arrow-middle.png);
+  /* background-image: url(../images/arrow-middle.png); */
 }
 
 .do_section .do_container .arrow-end::before {
-  background-image: url(../images/arrow-end.png);
+  /* background-image: url(../images/arrow-end.png); */
 }
 
 .who_section .row {
