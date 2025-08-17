@@ -467,7 +467,7 @@ a:focus {
 .client_section .owl-carousel .owl-nav .owl-next {
   width: 50px;
   height: 50px;
-  background-color: #000000;
+  background-color: #FE0000;
   background-size: 16px;
   background-position: center;
   border-radius: 100%;
@@ -479,7 +479,7 @@ a:focus {
 
 .client_section .owl-carousel .owl-nav .owl-prev:hover,
 .client_section .owl-carousel .owl-nav .owl-next:hover {
-  background-color: rgba(0, 0, 0, 0.8);
+  background-color: #000E60;
 }
 
 .client_section .owl-carousel .owl-nav .owl-prev {
@@ -591,7 +591,7 @@ a:focus {
 
 /* end contact section */
 .info_section {
-  background-color: #232323;
+  background-color: #000E60;
   color: #ffffff;
   padding: 90px 0 45px 0;
 }
