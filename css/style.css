@@ -661,8 +661,8 @@ a:focus {
 .info_section .info_form form button {
   display: inline-block;
   padding: 8px 30px;
-  background-color: #fbca47;
-  border: 1px solid #fbca47;
+  background-color: #FE0000;
+  border: 1px solid #FFFF;
   color: #ffffff;
   margin-top: 15px;
   text-transform: uppercase;
